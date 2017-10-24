@@ -8,7 +8,7 @@
 """
 from functools import wraps
 
-can_fun = True
+can_fun = False
 
 def need_fun(f):
     @wraps(f)
@@ -23,7 +23,7 @@ def index():
     return u'登陆成功'
 
 print index()
-can_fun = False
+can_fun = True
 print index()
 
 print index.__name__        # 引入wraps， 才能打印函数名
