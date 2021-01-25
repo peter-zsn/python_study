@@ -12,7 +12,7 @@ import MySQLdb
 # 112数据库信息
 BIG_HOST = '116.255.220.112'
 BIG_NAME = 'renwanxing'
-BIG_PWD = 'ohStjN6DKXqdfBAfhGzdz'
+BIG_PWD = '********'
 BIG_DB = 'tbkt'
 
 # 130数据库信息
