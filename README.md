@@ -26,3 +26,13 @@
   request   post的使用
 ### 12: list.py
     主要是list的用法 index，split，append， +，-， *，len， max， min，del， 切片赋值，count,extend,insert,pop,remove,reverse,sort等
+### 13: log.py
+    主要是做了一些日志输出
+### 14:long_str.py
+    对一些注释，换行符，转义符做了一些说明
+### 15:map_filter_reduce.py
+    主要针对map，filter,reduce函数作了说明
+### 16:pinyin.py
+    引用第三方pinyin库，对汉字作了一些处理
+### 17:propery,py
+    对propery的使用，已经源码的分析
