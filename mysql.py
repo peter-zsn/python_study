@@ -12,8 +12,8 @@ import time
 
 HOST = '116.255.220.112'
 PORT = 3306
-USER = 'renwanxing'
-PASSWD = 'ohStjN6DKXqdfBAfhGzdz'
+USER = '******'
+PASSWD = '*******'
 
 conn = MySQLdb.connect(host=HOST, port=PORT, user=USER, passwd=PASSWD, db='tbkt')
 
