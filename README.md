@@ -1,4 +1,4 @@
-# python_study
+# python_study----主要是16，17年的记录， python版本2.7，python3 会有少许变化
 ## 涉及python常用的一些语法 如下：
 
 ### 1 dict_to_attr
@@ -35,4 +35,28 @@
 ### 16:pinyin.py
     引用第三方pinyin库，对汉字作了一些处理
 ### 17:propery,py
-    对propery的使用，已经源码的分析
+    对propery的使用，以及源码的分析
+### 18:re_test.py
+    re模块的简单实用，主要涉及sub,split,findall,compile,search,match
+### 19:regexp.py
+    正则表达式的尊严。。。。。。各种匹配规则
+### 20: str.py
+    字符串操作，涉及format,Tamplate,find,join,lower,upper,replace,split,strip,lstrip,rstrip
+### 21: structpack.py
+    涉及c语言结构的转换
+### 22:tbkt_uwsgi_pro.ini
+    简单的uwsgi配置，以及注释
+### 23:thread_pool.py
+    线程池的封装，主要是thread和queue配合使用
+### 24:thread_pool2.py
+    线程池的封装，主要是thread和queue配合使用
+### 25:time_block.py
+    计算函数运行时间
+### 26:time_detail.py
+    涉及time,datetime模块的使用
+### 27: tuple.py
+    涉及元祖的使用
+### 28: xlrd_detail.pu
+    对xlsl文件处理，读写操作
+### 29:yield.py
+    生成器的使用理解
