@@ -35,5 +35,5 @@ def init():
         Clients.append(client)
 
     for client in Clients:
-        client.run()
+        client.start()
 init()
